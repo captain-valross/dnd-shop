@@ -1,0 +1,9 @@
+Item | price (copper) | Quantity | Max Quantity (0 = unlimited) | Supply (amount/days)
+--
+General Store
+Health Potion 5000 2 10 1/7
+Bandage 10 30 30 10/14
+--
+Blacksmith
+Iron Dagger 100 10 10 2/1
+Plate Helmet 2500 2 2 1/2

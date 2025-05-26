@@ -1,0 +1,8 @@
+shops:
+  - name: "General Store"
+    items:
+      - name: Health Potion
+        price: 5000
+        quantity: 2
+        max: 10
+        supply: 1/7
